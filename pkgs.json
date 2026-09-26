@@ -1930,7 +1930,7 @@
    "use": "broot — интерактивное дерево файлов",
    "prio": 1,
    "alt": "cargo install broot",
-   "topdir": "broot-1.60.1"
+   "topdir": "broot-1.60.2"
   },
   {
    "name": "just",
